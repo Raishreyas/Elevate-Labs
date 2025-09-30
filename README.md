@@ -22,12 +22,6 @@ The core of this repository is divided into specific tasks and a culminating fin
 
 ## 👤 Author
 
-* **Name:** [Shreyas Rai]
+* **Name:** Shreyas Rai
 * **GitHub:** [@Raishreyas](https://github.com/Raishreyas)
 * **LinkedIn:** [Shreyas Rai](https://www.linkedin.com/in/raishreyas/)
-
----
-
-## 📜 License
-
-This project is licensed under the [Choose a License, e.g., MIT License]. See the `LICENSE` file for details.
